@@ -26,6 +26,10 @@
   url: https://www.facebook.com/wrestler.unstoppable
   description: Facebook Game with over 10K users daily. Written in Java and all new code in Kotlin
 
+- company: Stew
+  url: https://play.google.com/store/apps/details?id=net.stew.stew
+  description: Stew is a simple Android client for soup.io (https://github.com/exviva/stew)
+
 - company: Plastoria
   url:
   description: Android Application used internally
